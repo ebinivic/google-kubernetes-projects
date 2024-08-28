@@ -4,7 +4,7 @@ ebinivictor@gmail.com
 
 gcloud auth list
 
-gcloud config set project PROJECT_ID
+gcloud config set project PROJECT_ID:basic-433911-f7
 
 student_00_f18bc19b04a8@cloudshell:~ (qwiklabs-gcp-04-13e9e1a44250)$
 
